@@ -25,4 +25,10 @@ html {
     display: grid;
     grid-template-columns: 700px 1fr;
     grid-template-rows: 80px 1fr;
+    
+    /* grid-gap: 1px; */
+
+    grid-template-areas: 
+    "hq hd"
+    "main main";
 }

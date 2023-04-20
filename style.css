@@ -21,4 +21,8 @@ html {
     background-color: white;
     height: 100%;
     width: 100%;
+    
+    display: grid;
+    grid-template-columns: 700px 1fr;
+    grid-template-rows: 80px 1fr;
 }

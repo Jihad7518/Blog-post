@@ -44,3 +44,9 @@ html {
     align-self: center;
     text-decoration: underline;
 }
+
+#header{
+    grid-area: hd;
+    justify-self: start;
+    align-self: center;
+}

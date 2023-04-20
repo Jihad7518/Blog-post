@@ -50,3 +50,8 @@ html {
     justify-self: start;
     align-self: center;
 }
+
+#content{
+    grid-area: main;
+}
+

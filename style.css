@@ -37,4 +37,10 @@ html {
     background-color: white;
 }
 
-
+#headerCon{
+    grid-area: hq;
+    margin-left: 20px;
+    justify-content: start;
+    align-self: center;
+    text-decoration: underline;
+}

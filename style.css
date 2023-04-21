@@ -1,10 +1,8 @@
-
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
 html {
     font-size: 103.05%;
 }
@@ -21,17 +19,18 @@ html {
     background-color: white;
     height: 100%;
     width: 100%;
-    
+
     display: grid;
     grid-template-columns: 700px 1fr;
     grid-template-rows: 80px 1fr;
-    
+
     /* grid-gap: 1px; */
 
     grid-template-areas: 
     "hq hd"
     "main main";
 }
+
 
 .box{
     background-color: white;
@@ -44,6 +43,7 @@ html {
     align-self: center;
     text-decoration: underline;
 }
+
 
 #header{
     grid-area: hd;
@@ -59,11 +59,11 @@ html {
     height: 100%;
     width: 100%;
     display: grid;
-    
     /* grid-gap: 20px; */
     
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(3, 1fr);
+
 
 }
 
@@ -77,3 +77,5 @@ html {
     margin-bottom: 20px;
     padding: 15px;
 }
+
+

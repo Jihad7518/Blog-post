@@ -16,3 +16,11 @@ html {
 }
 
 
+.container{
+    border: 2px;
+    /* background-color: rgb(121, 13, 13); */
+    height: 100%;
+    width: 100%;
+
+
+}

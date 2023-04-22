@@ -8,4 +8,11 @@ html {
     font-size: 103.05%;
 }
 
+.wrapper{
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+    /* background-color: rgb(200, 71, 71); */
+}
+
 

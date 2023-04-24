@@ -38,3 +38,7 @@ html {
 .box{
     background-color: white;
 }
+
+#headerCon{
+    grid-area: hq;
+}

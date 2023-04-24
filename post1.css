@@ -63,3 +63,12 @@ html {
     gap: 600px;
     justify-content: start;
 }
+
+.nestedGrid{
+    height: 100%;
+    width: 100%;
+    display: grid;
+    /* grid-gap: 20px; */
+    
+    
+}

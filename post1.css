@@ -46,3 +46,7 @@ html {
 #header{
     grid-area: hd;
 }
+
+#content{
+    grid-area: main;
+}

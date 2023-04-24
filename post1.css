@@ -50,3 +50,7 @@ html {
 #content{
     grid-area: main;
 }
+
+#footer{
+    grid-area: ft;
+}

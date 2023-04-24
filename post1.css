@@ -54,3 +54,12 @@ html {
 #footer{
     grid-area: ft;
 }
+
+.flex{
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 600px;
+    justify-content: start;
+}

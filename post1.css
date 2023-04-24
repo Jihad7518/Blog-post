@@ -42,3 +42,7 @@ html {
 #headerCon{
     grid-area: hq;
 }
+
+#header{
+    grid-area: hd;
+}

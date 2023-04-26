@@ -15,7 +15,6 @@ html {
     /* background-color: rgb(200, 71, 71); */
 }
 
-
 .container{
     border: 2px;
     /* background-color: rgb(121, 13, 13); */
@@ -27,14 +26,12 @@ html {
     grid-template-rows: 80px 1fr 40px 30px;
 
     grid-gap: 1px;
-    
+
     grid-template-areas: 
     "hd"
     "main"
     "ft";
-
 }
-
 .box{
     background-color: white;
 }
@@ -42,15 +39,12 @@ html {
 #headerCon{
     grid-area: hq;
 }
-
 #header{
     grid-area: hd;
 }
-
 #content{
     grid-area: main;
 }
-
 #footer{
     grid-area: ft;
 }
@@ -99,13 +93,11 @@ li{
     text-decoration: solid;
     padding: 5px;
 }
-
 .a{
     text-decoration-line: none;
     color: black;
     font-weight: lighter;
 }
-
 .a:hover{
     color: blue;
     font-weight: bold;

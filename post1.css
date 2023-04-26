@@ -106,4 +106,7 @@ li{
     font-weight: lighter;
 }
 
-
+.a:hover{
+    color: blue;
+    font-weight: bold;
+}

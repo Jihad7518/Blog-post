@@ -89,6 +89,13 @@ li{
 #footer{
     display: flex;
     flex-direction: row;
-    
-    
+}
+
+.footer{
+    margin-left: 50px;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 12px;
+    text-decoration: solid;
+    padding: 5px;
 }
